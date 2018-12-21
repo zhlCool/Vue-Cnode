@@ -5,6 +5,9 @@
 
 
 
+ ## 项目入口
+由于该项目暂时未托管到GitHub上，建议clone下来跑一下~
+
 
  ## 技术栈
 ```
@@ -35,7 +38,7 @@
 
 ## 启动程序
 ``` bash
-npm install
+npm /cnpm /yarn install
 
 npm run dev
 
